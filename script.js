@@ -10,6 +10,7 @@ burger.addEventListener('click' ,function(){
     closebtn.style.display='inline';
     list.style.display="flex";
     socials.style.backgroundColor='blueviolet';
+  
 
 
 })
